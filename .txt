@@ -1,1 +1,18 @@
 Dynamic Programming (DP) in Data Structures and Algorithms (DSA) is a technique used to solve complex problems by breaking them into smaller overlapping subproblems and storing the results so we don’t recompute them again.
+
+
+1. Overlapping Subproblems
+
+The same subproblems are solved multiple times.
+
+Example:
+Fibonacci calculation repeatedly calculates the same numbers.
+
+
+2. Optimal Substructure
+
+The optimal solution can be built from optimal solutions of smaller problems.
+
+
+
+

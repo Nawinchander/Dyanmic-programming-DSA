@@ -14,5 +14,9 @@ Fibonacci calculation repeatedly calculates the same numbers.
 The optimal solution can be built from optimal solutions of smaller problems.
 
 
+dp[i] = best solution using previous results
+dp[i] = dp[i-1] + dp[i-2]
+
+
 
 

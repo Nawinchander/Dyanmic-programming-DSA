@@ -1,0 +1,1 @@
+Dynamic Programming (DP) in Data Structures and Algorithms (DSA) is a technique used to solve complex problems by breaking them into smaller overlapping subproblems and storing the results so we don’t recompute them again.
